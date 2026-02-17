@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+
+.idea/
+
+wlan_connection_log*.txt
+wlan_status*.json
+
